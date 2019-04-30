@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\bin\x64\Debug\AdministradorProcesos.exe.config
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\bin\x64\Debug\AdministradorProcesos.exe
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\bin\x64\Debug\AdministradorProcesos.pdb
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.Form1.resources
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.Properties.Resources.resources
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.exe
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.pdb
+C:\Users\DELL\Desktop\AdministradorProcesos\AdministradorProcesos\obj\x64\Debug\AdministradorProcesos.csprojAssemblyReference.cache
